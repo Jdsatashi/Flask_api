@@ -31,3 +31,6 @@ env/
 env1/
 env2/
 env3/
+
+Docker
+docker-compose.yml
