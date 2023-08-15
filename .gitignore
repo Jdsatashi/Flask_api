@@ -9,6 +9,7 @@ __pycache__/
 .env
 .idea/
 .vscode/
+.vdcode
 # Logs
 log/
 *.log
@@ -31,6 +32,6 @@ env/
 env1/
 env2/
 env3/
-
+Docker
 Docker/
 docker-compose.yml
