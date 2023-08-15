@@ -8,7 +8,7 @@ __pycache__/
 *.sqlite3
 .env
 .idea/
-
+.vscode/
 # Logs
 log/
 *.log
@@ -32,5 +32,5 @@ env1/
 env2/
 env3/
 
-Docker
+Docker/
 docker-compose.yml
