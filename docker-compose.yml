@@ -10,8 +10,3 @@ services:
     volumes:
       - ./src:/app/src
       - ./bookmarks.db:/app/bookmarks.db
-    environment:
-      - FLASK_ENV=development
-      - FLASK_APP=src/__init__.py
-      - SQLALCHEMY_DATABASE_URI=sqlite:///app/bookmarks.db
-      - JWT_SECRET_KEY="JWT_SECRET_KEY"
